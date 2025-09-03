@@ -9,7 +9,6 @@ The goal is to simulate a real-world Data Analyst workflow: extracting business 
 
 Retail-Data-Analysis/
 │
-├── data/ # Original dataset
 ├── sql_queries/ # SQL scripts and exported results
 │ └── data_export/ # Query outputs (CSV files)
 ├── python_scripts/ # Python code for visualization
