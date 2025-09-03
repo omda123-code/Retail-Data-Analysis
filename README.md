@@ -56,17 +56,17 @@ Some of the key charts included:
 - **Top Customers and Sellers**  
 - **Average Delivery Days per City**  
 
-> All visualizations are saved under `/python_scripts/charts/`.
+> All visualizations are saved under `charts/`.
 
 ---
 
 ## 🚀 How to Run the Project
 
 1. Import the dataset into **SQL Server**.  
-2. Run the queries from `sql_queries/retail_analysis_queries.sql`.  
-3. Export results into `/sql_queries/data_export/`.  
-4. Open `python_scripts/visualizations.py` and run it to generate charts.  
-5. Find outputs inside `/python_scripts/charts/`.
+2. Run the queries from `/retail_analysis_queries.sql`.  
+3. Export results into `/data_export/`.  
+4. Open `python_scripts.py` and run it to generate charts.  
+5. Find outputs inside `/charts`.
 
 ---
 
